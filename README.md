@@ -2,7 +2,7 @@ Sistema de Gestión de Usuarios en PHP
 Este es un simple sistema de gestión de usuarios desarrollado en PHP que sigue la metodología CRUD (Crear, Leer, Actualizar, Eliminar). El propósito principal de este proyecto es demostrar cómo implementar operaciones básicas de base de datos utilizando PHP y MySQL.
 
 Características
-Crear nuevos usuarios con información básica como nombre, correo electrónico, y contraseña.
+Crear nuevos usuarios con información básica como nombre, telefono, y fecha.
 Leer y mostrar información detallada de los usuarios existentes.
 Actualizar la información de los usuarios existentes.
 Eliminar usuarios de la base de datos.
